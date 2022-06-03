@@ -1,1 +1,15 @@
 hello this is git demo....
+
+
+git init
+git add .
+git status
+git commit -m "initial commit"
+git remote add origin "link "
+git push -u origin master
+
+reqq.. pat personal access token
+
+to cache the token
+
+git config --global credential.helper cache
