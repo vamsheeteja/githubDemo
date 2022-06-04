@@ -12,4 +12,9 @@ reqq.. pat personal access token
 
 to cache the token
 
-git config --global credential.helper cache
+// to store the user credentials
+
+1 git config credential.helper store
+2 add username of github
+3 add auth token ..
+
